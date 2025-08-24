@@ -12,13 +12,7 @@ h3 {
 p {
     font-size: 14px;
     font-family: Arial;
-<<<<<<< HEAD
-}
-div {
-    background-color: darkcyan;
-    text-align: right;
-}
-=======
+
 }
 div {
     background-color: darkcyan;
@@ -26,5 +20,20 @@ div {
 }
 
 
+div {
+    background-color: darkcyan;
+    text-align: right;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  font-family: Arial;
+}
 
->>>>>>> 7c6c7340fb6adaa6e194a83e1db6994ea4fd524d
+tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+
+
